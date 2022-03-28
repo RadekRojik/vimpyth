@@ -7,7 +7,7 @@ Add this to `init.vim`
     function! Comment()                                                                                             
         " fce toogle comments
         py3file /home/radek/.config/nvim/myplug/comments.py
-        endfunction
+    endfunction
 
 Invoke with:
 
